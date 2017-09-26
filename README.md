@@ -3,17 +3,17 @@
 This place is all about HEDGHOGS!!! If You ARe NoT A HEdGHOgS Fan THen Get OUt Of HeRE!!!1!!1!!! We OnLY WaNt HeDGhOg FAnS!!!1!!!11!
 
 The Webpage Is Hosted At (MinecraftJr/Hedghog-Wiki.github.io)
-
-
-
-
-
-## Below Is Some Information For Me So You Can Read It Or Not, I Dont Care
-
-
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+Below Is Some Information For Me So You Can Read It Or Not, I Dont Care
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ----------------------------------------------------------------------------------------------------------------------------------
 
 You can use the [editor on GitHub](https://github.com/MinecraftJr/Hedghog-Wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
