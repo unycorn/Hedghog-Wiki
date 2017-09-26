@@ -2,7 +2,7 @@
 
 This place is all about HEDGHOGS!!! If You ARe NoT A HEdGHOgS Fan THen Get OUt Of HeRE!!!1!!1!!! We OnLY WaNt HeDGhOg FAnS!!!1!!!11!
 
-## The Webpage Is Hosted At (MinecraftJr/Hedghog-Wiki.github.io)
+## The Webpage Is Hosted At (www.hedghogsrcool.hedghogs)
 
 Your Going To Read It?
 
