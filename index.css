@@ -1,5 +1,5 @@
 body {
-    background-image: url("hedghog-backround.jpg") cover no-repeat;
+    background-image: url('img/hedghog-backround.jpg') cover no-repeat;
 }
 
 #home_text {
