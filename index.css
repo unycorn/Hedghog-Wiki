@@ -1,1 +1,11 @@
-<css>
+body {
+  margin: 0;
+  backround-image: url("Hedghog-Backround.jpg");
+}
+
+#home_text {
+  margin-left: 30%;
+  margin-right: 10%;
+  padding: 1px 16px;
+  height: 500px;
+}
