@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Hedghog Wiki!
+
+This place is all about HEDGHOGS!!! If You ARe NoT A HEdGHOgS Fan THen Get OUt Of HeRE!!!1!!1!!! We OnLY WaNt HeDGhOg FAnS!!!1!!!11!
+
+Below Is Some Information For Me So You Can Read It Or Not, I Dont Care
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 You can use the [editor on GitHub](https://github.com/MinecraftJr/Hedghog-Wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -27,11 +31,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinecraftJr/Hedghog-Wiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
