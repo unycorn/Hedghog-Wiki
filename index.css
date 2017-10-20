@@ -1,5 +1,6 @@
 body {
     background-image: url('Hedghog-Backround.jpg') cover;
+    padding: 10px;
 }
 
 #home_text {
